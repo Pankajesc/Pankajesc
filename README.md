@@ -1,3 +1,5 @@
+<img src="![image](https://github.com/Pankaj8287/Pankaj8287/assets/125720698/734d5251-8ddc-484d-82f8-af23893c77ef)">
+
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
