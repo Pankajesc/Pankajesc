@@ -1,4 +1,5 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<br>
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
