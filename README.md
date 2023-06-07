@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m a **Full Stack Web Developer**
+- 🔭 I’m a Full Stack Web Developer
 
-- 🌱 I’m currently Exploring **Mern Stack**
+- 🌱 I’m currently Exploring Mern Stack
 
-- 📫 How to reach me **pankajyadavji87@gmail.com**
+- 📫 How to reach me pankajyadavji87@gmail.com
 
-- ⚡ Fun fact **I don't enjoy sleeping.**
+- ⚡ Fun fact I don't enjoy sleeping.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
