@@ -1,7 +1,5 @@
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
-<br>  
-<br>
-<br>
+<img align="" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<br> 
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
