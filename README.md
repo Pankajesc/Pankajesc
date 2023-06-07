@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
 <br> 
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
