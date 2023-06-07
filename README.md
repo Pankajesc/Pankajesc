@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<br>  
+<br>
 <br>
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Yadav</h1>
